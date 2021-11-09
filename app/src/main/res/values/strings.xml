@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cunditravel</string>
+    <string name="montana">Parque Natural la Montaña del Oso</string>
+    <string name="ubicacion">Ubicación:</string>
+    <string name="temperatura">Temperatura:</string>
+    <string name="info">Información General:</string>
+    <string name="informacion">Se enfoca en el eco-turismo con énfasis en la sensibilización hacia el cuidado del medio ambiente y sus recursos naturales, este es nuestro principal objetivo como parque natural, ven a conocer nuestra reserva natural ¡mientras descansas y aprendes de la naturaleza</string>
+    <string name="ubi">Vereda Yerbabuena en el municipio de Chía.</string>
+    <string name="temp">Varía de 7 °C a 19 °C y rara vez baja a menos de 3 °C </string>
+</resources>
